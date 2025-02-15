@@ -8,7 +8,7 @@
 📫 **Contact:**  
 - Email: njaydeep0510@gmail.com  
 - LinkedIn: [LinkedIn Profile](www.linkedin.com/in/jaydeep-nakum-36b913183)  
-- GitHub: [GitHub Profile](https://github.com/jaydeep-nakum)  
+- GitHub: [GitHub Profile](https://github.com/jaydeepnakum)  
 
 📌 **Pinned Projects:**
 🚀 Warehouse Asset Tracking with BLE & ESP32 – **Real-time asset tracking using BLE RSSI & Kalman Filtering**
